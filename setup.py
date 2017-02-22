@@ -11,7 +11,9 @@
 # FOR A PARTICULAR PURPOSE.
 #
 ##############################################################################
-name, version = "zc.lockfile", '1.0.1'
+
+version = '1.0.1'
+name = "zc.lockfile"
 
 import os
 from setuptools import setup, find_packages
