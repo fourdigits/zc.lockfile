@@ -1,6 +1,12 @@
 Change History
 ***************
 
+1.0.1-fourdigits (unreleased)
+=============================
+
+- Nothing changed yet.
+
+
 1.0.1-fourdigits (2017-02-22)
 =============================
 

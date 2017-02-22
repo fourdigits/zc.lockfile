@@ -65,8 +65,8 @@ Of course, now that we've released the lock, we can create it again:
 Change History
 ***************
 
-1.0.1 (2012-11-30)
-==================
+1.0.1-fourdigits (2017-02-22)
+=============================
 
 - Fixed: when there was lock contention, the pid in the lock file was
   lost.
