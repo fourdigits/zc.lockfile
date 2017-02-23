@@ -12,7 +12,7 @@
 #
 ##############################################################################
 
-version = '1.0.1-fourdigits.dev0'
+version = '1.0.2-fourdigits'
 name = "zc.lockfile"
 
 import os
